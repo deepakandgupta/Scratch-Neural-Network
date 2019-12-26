@@ -17,7 +17,7 @@ let training_data = [
   }
 ];
 
-let n = new NeuralNetwork(2, 2, 1);
+let n = new NeuralNetwork(2, 3, 1);
 
 console.log(training_data[1].inputs + "|" + training_data[1].targets);
 
