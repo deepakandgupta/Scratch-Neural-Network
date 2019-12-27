@@ -1,3 +1,2 @@
 # Scratch-Neural-Network
-This is a small neural network library that is written from scratch.
-This includes writing a matrix manipulation library that I also made which is used at various steps in the making of neural network.
+This is a small neural network library that is written from scratch beacuse I wanted to learn machine learning from ground up, therefore I also used my own matrix library with basic matrix manipulation functions.
